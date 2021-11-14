@@ -1,0 +1,21 @@
+
+
+
+
+
+body {
+
+    background: linear-gradient(45deg, yellowgreen ,dodgerblue);
+    color: #f1f1f1;
+
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+footer {
+
+
+    color: #f1f1f1;
+    font-family: "Impact", Helvetica, sans-serif;
+    font-size: xx-large;
+}
