@@ -5,3 +5,18 @@ h2 {
 .title {
     font-size: 65px;
 }
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    /* padding-left: 15
+px
+; */
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+}
+
+body {
+
+    text-align: left ;
+}

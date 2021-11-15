@@ -1,12 +1,8 @@
 
-
-
-
-
 body {
 
-    background: linear-gradient(45deg, yellowgreen ,dodgerblue);
-    color: #f1f1f1;
+    background: linear-gradient(45deg, white ,white);
+    color: black;
 
     font-family: Arial, Helvetica, sans-serif;
     height: 100vh;
@@ -15,7 +11,7 @@ body {
 footer {
 
 
-    color: #f1f1f1;
+    color: black;
     font-family: "Impact", Helvetica, sans-serif;
     font-size: xx-large;
 }
